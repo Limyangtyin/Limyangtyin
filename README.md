@@ -1,12 +1,13 @@
 # Hi there, I'm YT! 👋
 
 ## About Me 🌱
-I'm exploring the intersection of **technology and design**, building a foundagtion in development while gearing up for creative projects in the future. My interests span **web development, mobile application, and artistic exploration**, and I'm shapping my work toward a more design-oriented approach.
+I'm exploring the intersection of **technology and design**, building a foundation in development while gearing up for creative projects in the future. My interests span **web development, mobile application, and artistic exploration**, and I'm shapping my work toward a more design-oriented approach.
 
 ## Current Projects 💡
 I'm currently working on:
 - **My Portfolio WebPage** - Building functional and creative web experience.
 - **Learning & Exploration** - Diving into art and design-driven technology
+- **Todo-list(Next.js)** - Learn to build todolist with static site generator (Next.js).
 
 ## Future Focus 🎨
 I'm gradually shifting toward *art-driven coding and architectural design**, aiming to merge technology with aesthetics. As I develop more projects, this space will evolve to reflect new explorations.
